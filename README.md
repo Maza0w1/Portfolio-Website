@@ -28,3 +28,6 @@ This website is a portable showcase of your talents and skills.
 ### Footer
 - Social links
 - Animations
+
+### ComingSoonPage.html
+Sleek Countdown Clock (formatted like so: days, hours, minutes, seconds, milliseconds) in center with geometric image as background and a "click to go back" button
