@@ -1,6 +1,6 @@
-## Portfolio site
+## Professional Portfolio site
 
-This website is a portable showcase of your talents and skills. 
+
 
 ### Navbar
 - 3 links (Home, About, Project page)
